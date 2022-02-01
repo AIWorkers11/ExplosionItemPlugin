@@ -1,0 +1,11 @@
+name: ExplosionItemPlugin
+version: '${project.version}'
+main: net.devfairy0529.plugins.explosionitemplugin.explosionitemplugin.ExplosionItemPlugin
+api-version: 1.18
+authors: [ DevFairy0529 ]
+description: アイテムをゲットすると爆発するプラグインです。
+
+commands:
+  ei:
+    description: this is a exprotion command.
+    usage: /<command>
